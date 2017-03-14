@@ -3,12 +3,20 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
+
 	* Variables
+		* declaring values in JS. You say 'var' and give your var a name (this is the LHS declaration) and then a value (this is RHS declaration)
 	* Strings
+		* a data type consisting of letters, words, phrases that can also use alphnumeric and non-alphanumeric characters
 	* Functions (arguments, `return`)
+		* is a statement that is a set of instructions for the computer to following
+		* arguments are any values that are needed in a function. arguments are not mandatory.
+		* return keyword ends the function running and gives the function a final value
 	* `if` statements
+		* instructions that run if the value is true
 	* Boolean values (`true`, `false`)
+		* booleans give either a true value or a false value
+		* used to help functions run 
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
